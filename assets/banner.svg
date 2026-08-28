@@ -39,8 +39,7 @@
 
     <!-- Status pill -->
     <g transform="translate(0, 80)">
-      <rect x="0" y="-12" width="410" height="22" rx="4" fill="#132a26" stroke="#134e4a" stroke-width="1" />
-      <text x="12" y="3" class="badge">RUNNING: Nutrition Agent @ NUMAA.ai (Incrivelsoft)</text>
+      
     </g>
   </g>
 </svg>
