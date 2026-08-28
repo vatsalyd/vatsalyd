@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:115e59&height=180&section=header&text=VATSAL%20YADAV&fontSize=42&fontColor=5eead4&fontAlignY=38&desc=AI%20Systems%20%26%20Autonomous%20Agents%20Engineer&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Vatsal Yadav Banner"/>
+  <img src="https://raw.githubusercontent.com/vatsalyd/vatsalyd/main/assets/banner.svg" width="100%" alt="Vatsal Yadav — AI Systems &amp; Autonomous Agents Engineer"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"/></a>
-  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=5EEAD4" alt="Portfolio"/></a>
-  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=5EEAD4" alt="Email"/></a>
-  <a href="https://medium.com/@vatsal.y.official"><img src="https://img.shields.io/badge/Medium-0d1117?style=flat-square&logo=medium&logoColor=5EEAD4" alt="Medium"/></a>
-  <a href="https://x.com/fixedbyvatsal"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=5EEAD4" alt="Twitter"/></a>
-  <a href="https://github.com/vatsalyd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=5EEAD4" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"/></a>
+  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=5EEAD4" alt="Portfolio"/></a>
+  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=5EEAD4" alt="Email"/></a>
+  <a href="https://medium.com/@vatsal.y.official"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=5EEAD4" alt="Medium"/></a>
+  <a href="https://x.com/fixedbyvatsal"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=5EEAD4" alt="Twitter"/></a>
+  <a href="https://github.com/vatsalyd"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/vatsalyd/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=5EEAD4" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -106,13 +107,13 @@ Languages              : Python · C++ · TypeScript · JavaScript · SQL · Bas
 ### 📬 `$ connect()`
 
 <p align="center">
-  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/vatsal.y.official@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=5EEAD4"/></a>
-  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=5EEAD4"/></a>
-  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=5EEAD4"/></a>
-  <a href="https://github.com/vatsalyd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=5EEAD4"/></a>
-  <a href="https://x.com/fixedbyvatsal"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=5EEAD4"/></a>
+  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/vatsal.y.official@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=5EEAD4" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"/></a>
+  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=5EEAD4" alt="Portfolio"/></a>
+  <a href="https://github.com/vatsalyd"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub"/></a>
+  <a href="https://x.com/fixedbyvatsal"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=5EEAD4" alt="X"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115e59,100:0f172a&height=90&section=footer" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/vatsalyd/vatsalyd/main/assets/footer.svg" width="100%" alt="Footer"/>
 </p>

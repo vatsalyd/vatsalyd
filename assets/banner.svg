@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0d2824" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <linearGradient id="accentGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2dd4bf" />
+      <stop offset="50%" stop-color="#5eead4" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <!-- Wave Gradient -->
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#0f766e" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0d9488" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Shadow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 900;
+      font-size: 56px;
+      letter-spacing: 6px;
+      fill: url(#accentGlow);
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      letter-spacing: 3px;
+      fill: #94a3b8;
+    }
+    .tagline {
+      font-family: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, Consolas, monospace;
+      font-weight: 500;
+      font-size: 15px;
+      letter-spacing: 1.5px;
+      fill: #5eead4;
+    }
+    .grid-line {
+      stroke: rgba(94, 234, 212, 0.07);
+      stroke-width: 1;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="300" rx="12" fill="url(#bgGrad)" />
+
+  <!-- Grid Accents -->
+  <g class="grid-lines">
+    <line x1="0" y1="60" x2="1200" y2="60" class="grid-line" />
+    <line x1="0" y1="120" x2="1200" y2="120" class="grid-line" />
+    <line x1="0" y1="180" x2="1200" y2="180" class="grid-line" />
+    <line x1="0" y1="240" x2="1200" y2="240" class="grid-line" />
+    <line x1="200" y1="0" x2="200" y2="300" class="grid-line" />
+    <line x1="400" y1="0" x2="400" y2="300" class="grid-line" />
+    <line x1="600" y1="0" x2="600" y2="300" class="grid-line" />
+    <line x1="800" y1="0" x2="800" y2="300" class="grid-line" />
+    <line x1="1000" y1="0" x2="1000" y2="300" class="grid-line" />
+  </g>
+
+  <!-- Glowing Aura Nodes -->
+  <circle cx="150" cy="80" r="140" fill="#0d9488" opacity="0.15" filter="url(#glow)" />
+  <circle cx="1050" cy="180" r="160" fill="#0284c7" opacity="0.12" filter="url(#glow)" />
+
+  <!-- Wave Accent at Bottom -->
+  <path d="M 0,260 C 300,290 600,230 900,270 C 1050,290 1150,270 1200,260 L 1200,300 L 0,300 Z" fill="url(#waveGrad)" />
+  <path d="M 0,275 C 350,250 700,295 1050,265 C 1120,260 1170,270 1200,275 L 1200,300 L 0,300 Z" fill="#0f172a" opacity="0.8" />
+
+  <!-- Main Content Elements -->
+  <g transform="translate(600, 100)" text-anchor="middle">
+    <!-- Status Chip -->
+    <g transform="translate(0, -32)">
+      <rect x="-170" y="-14" width="340" height="28" rx="14" fill="#0f172a" stroke="#134e4a" stroke-width="1.5" />
+      <circle cx="-145" cy="0" r="4.5" fill="#5eead4">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="10" y="5" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#5eead4" letter-spacing="1">
+        AGENTIC SYSTEMS &amp; ORCHESTRATION
+      </text>
+    </g>
+
+    <!-- Main Name Title -->
+    <text x="0" y="45" class="title">VATSAL YADAV</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="80" class="subtitle">AI SYSTEMS &amp; AUTONOMOUS AGENTS ENGINEER</text>
+
+    <!-- Terminal Details -->
+    <text x="0" y="118" class="tagline">&gt; LANGGRAPH · RAG · NUMAA.AI · IIT BHILAI</text>
+  </g>
+</svg>
