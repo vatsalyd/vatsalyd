@@ -1,160 +1,118 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:115e59&height=200&section=header&text=VATSAL%20YADAV&fontSize=48&fontColor=5eead4&fontAlignY=35&desc=Agentic%20Systems%20%26%20Orchestration%20Layer%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:115e59&height=180&section=header&text=VATSAL%20YADAV&fontSize=42&fontColor=5eead4&fontAlignY=38&desc=AI%20Systems%20%26%20Autonomous%20Agents%20Engineer&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Vatsal Yadav Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=5EEAD4&background=00000000&center=true&vCenter=true&width=650&lines=Orchestrating+multi-agent+systems%2C+one+state+machine+at+a+time;LangGraph+%C2%B7+RAG+%C2%B7+Multi-Agent+Pipelines;Currently+routing+production+traffic+at+NUMAA.ai" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5EEAD4"/></a>
-  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4"/></a>
-  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=5EEAD4"/></a>
-  <a href="https://medium.com/@vatsal.y.official"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=5EEAD4"/></a>
+  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"/></a>
+  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=5EEAD4" alt="Portfolio"/></a>
+  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=5EEAD4" alt="Email"/></a>
+  <a href="https://medium.com/@vatsal.y.official"><img src="https://img.shields.io/badge/Medium-0d1117?style=flat-square&logo=medium&logoColor=5EEAD4" alt="Medium"/></a>
+  <a href="https://x.com/fixedbyvatsal"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=5EEAD4" alt="Twitter"/></a>
+  <a href="https://github.com/vatsalyd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=5EEAD4" alt="GitHub"/></a>
 </p>
 
 ---
 
 ```
-ORCHESTRATOR STATUS  : ONLINE
-ROLE                 : Agentic Systems & Orchestration Layer Engineer
-BASE                 : IIT Bhilai — B.Tech, Data Science & AI (2024–2028)  ·  GPA 7.34
-ROUTING TO           : NUMAA.ai — Nutrition Agent (Production)
-CONTACT              : vatsal.y.official@gmail.com
+STATUS   : ACTIVE · Production AI Systems
+ROLE     : AI Systems & Autonomous Agents Engineer
+BASE     : IIT Bhilai — B.Tech, Data Science & AI (2024–2028)
+ROUTING  : Incrivelsoft (NUMAA.ai) — Production Nutrition Agent
+CONTACT  : vatsal.y.official@gmail.com · +91 7983709173
 ```
 
+---
+
+### ⚡ `$ whoami`
+
+I build the backend engine room for artificial intelligence — focusing on multi-agent coordination, state machines, and reliable handoffs rather than simple surface-level chat wrappers.
+
+- 🚀 **Current Production Work**: AI/ML Intern at **Incrivelsoft**, owning the Nutrition Agent in the **NUMAA.ai** multi-agent health platform (3-layer hybrid engine: clinical rules → guideline retrieval → Gemini 2.5 Flash router).
+- 🧠 **Research Focus**: Sub-second agent routing, confidence-gated escalations, and virtual memory paging (MCP) to reduce LLM token overhead.
+- 🎓 **Education**: B.Tech in Data Science & Artificial Intelligence at **IIT Bhilai** (GPA: 7.34/10).
+
+---
+
+### 🤖 `$ ps aux --agents` (Featured Systems)
+
+| System | Overview | Stack |
+|:---|:---|:---|
+| [**`numaa-nutrition-agent`**](https://numaa.ai) | Nutrition logic inside NUMAA.ai; 5 FastAPI microservices; token-bucket rate limiting (300 RPM); clinical guardrails | Gemini 2.5 · FastAPI · Qdrant · MongoDB |
+| [**`context-pager`**](https://github.com/vatsalyd/context_pager) | MCP virtual memory for LLMs — pages compressed doc slices on demand (**4–10× token reduction**) | MCP · Vector Search · FastAPI · Python |
+| [**`helixdesk`**](https://github.com/vatsalyd/helixdesk) | 3-agent LangGraph state machine (Triage → Retrieval → Resolution) with Llama-3.3-70b (**~1.8s latency**) | LangGraph · ChromaDB · FastAPI · Docker · AWS |
+| [**`finsight-ai`**](https://github.com/vatsalyd/FinSightAI) | 4-stage financial pipeline (Rate Limiter → Safety Guard → Intent Classifier → Router) | FastAPI · SSE · yfinance · Python |
+| [**`jobfit-ai`**](https://github.com/vatsalyd/JobFit-AI) | 3-model resume↔JD matching engine (spaCy NER + XGBoost + fine-tuned SBERT on 13k+ pairs) | XGBoost · PyTorch · SBERT · Streamlit |
+| [**`claimsure-ai`**](https://github.com/vatsalyd/ClaimSure) | Insurance claim verification agent with multi-modal OCR invoice intake + validation gates | Python · Document OCR · FastAPI |
+
+<details>
+<summary><b>View more projects (7 builds)</b></summary>
 <br>
 
-### `$ whoami`
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**influencer-search**](https://github.com/vatsalyd/influencer-search) | Creator discovery platform with multi-dimensional filtering and telemetry | React 19 · TypeScript · Vite · Framer Motion |
+| [**ReAct Paper Implementation**](https://github.com/vatsalyd/ReAct-Paper-Implementation) | From-scratch ReAct (ICLR 2023) autonomous Thought → Action → Observation loop | Python · LangChain · Groq |
+| [**RawAccel-Studio**](https://github.com/vatsalyd/RawAccel-Studio) | ML pipeline predicting mouse acceleration curves from gameplay telemetry | Python · Scikit-learn · Curve Fitting |
+| [**AI-OCR Receipt Extraction**](https://github.com/vatsalyd/AI-OCR-Receipt-Extraction) | 4-stage computer vision & NER pipeline for structured receipt parsing | OpenCV · Tesseract · NER · Python |
+| [**PGAGI Screening Portal**](https://github.com/vatsalyd/AI-powered-role-based-candidate-screening-system) | Role-based technical interview simulator and evaluation engine | LLMs · Prompt Engineering · FastAPI |
+| [**Maven**](https://github.com/vatsalyd/Maven) | Local desktop assistant with AES-256 encrypted smart field autofill | Python · Windows API · Security |
+| [**ShiftSync**](https://github.com/vatsalyd/ShiftSync) | Cross-platform shift-scheduling application with real-time state sync | React Native · Expo · TypeScript |
 
-Third-year Data Science & AI undergrad at **IIT Bhilai** focused on one problem: getting multiple specialized agents to behave like one coherent system instead of three confused ones talking past each other. I design the state machines, confidence-based escalation logic, and handoff protocols that sit between a user's request and a swarm of agents trying to answer it.
+</details>
 
-Currently doing this in production as an **AI/ML Intern at Incrivelsoft**, where I own the Nutrition Agent inside the **NUMAA.ai** multi-agent health platform — enforcing clinical guardrails, orchestrating inter-agent handoffs, and keeping Gemini 2.5 Flash from prescribing pizza for diabetes.
+---
 
-<br>
+### 🌐 `$ cat upstream_contributions.log`
 
-### `$ ps aux --agents`
+> **Live & Automated**: Contributions to external open-source repositories (auto-synced via GitHub Actions).
 
-| Agent | Status | What It Does | Stack |
-|:---|:---:|:---|:---|
-| **`numaa-nutrition-agent`** | 🔵 `prod` | Nutrition domain logic inside NUMAA.ai; 3-layer hybrid system (ICMR-NIN clinical engine → guideline retrieval → Gemini router); 5 FastAPI microservices | Gemini 2.5 Flash · FastAPI · Qdrant · MongoDB |
-| **`context-pager`** | 🟢 `active` | MCP virtual memory for LLMs — semantically pages compressed doc slices on demand instead of dumping full documents into context; **4–10× token cost reduction** | MCP · Vector Search · FastAPI · Python |
-| **`helixdesk`** | 🟢 `active` | 3-agent LangGraph state machine (Triage → Retrieval → Resolution); auto-escalates low-confidence tickets; **~1.8s avg resolution** | LangGraph · Llama-3.3-70b · ChromaDB · Docker · AWS |
-| **`finsight-ai`** | 🟢 `active` | 4-stage financial pipeline (Rate Limiter → Safety Guard → Intent Classifier → Agent Router); 10 domains, 100% classification accuracy, **166ms latency** | FastAPI · SSE · yfinance |
-| **`jobfit-ai`** | 🟢 `active` | 3-model resume↔JD matching (spaCy NER + XGBoost + fine-tuned SBERT); trained on 13k+ pairs across 24 job categories | XGBoost · PyTorch · SBERT · Streamlit |
-
-**Links:**
-[`context-pager`](https://github.com/vatsalyd/context_pager) ·
-[`helixdesk`](https://github.com/vatsalyd/helixdesk) — [Live](https://helixdesk.onrender.com/) ·
-[`finsight-ai`](https://github.com/vatsalyd/FinSightAI) ·
-[`jobfit-ai`](https://github.com/vatsalyd/JobFit-AI) — [Live](http://54.211.51.42:8501/) ·
-[`claimsure-ai`](https://github.com/vatsalyd/ClaimSure) ·
-[`influencer-search`](https://github.com/vatsalyd/influencer-search)
-
-<br>
-
-### `$ cat upstream_contributions.log`
-
-Merged PRs and issues on repositories I don't own:
-
-| Repository | PR / Issue | Status |
+<!-- START_SECTION:activity -->
+| Repository | Contribution / Pull Request | Status |
 |:---|:---|:---:|
-| [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Fix async trace export dropping workspace context](https://github.com/mlflow/mlflow/pull/24275) | ✅ Merged |
+| [`IncrivelsoftHQ/TummyTales-Platform`](https://github.com/IncrivelsoftHQ/TummyTales-Platform) | [refactor: single-provider Gemini migration + token budget fixes](https://github.com/IncrivelsoftHQ/TummyTales-Platform/pull/158) | ✅ Merged |
+| [`IncrivelsoftHQ/TummyTales-Platform`](https://github.com/IncrivelsoftHQ/TummyTales-Platform) | [perf: latency reduction — cache, ProfileRepository, service decomposition](https://github.com/IncrivelsoftHQ/TummyTales-Platform/pull/154) | ✅ Merged |
+| [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Fix async trace export dropping workspace context (#24093)](https://github.com/mlflow/mlflow/pull/24275) | ✅ Merged |
+| [`deepchem/deepchem`](https://github.com/deepchem/deepchem) | [fix: DTNNEmbedding parameter misspelled (should be initializer) — Fixes #5020](https://github.com/deepchem/deepchem/pull/5025) | 🟡 Open |
 | [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Support Gemini thought signature in AI Gateway](https://github.com/mlflow/mlflow/pull/24051) | ✅ Merged |
-| [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Warn when search_runs() silently truncates results](https://github.com/mlflow/mlflow/pull/22215) | ✅ Merged |
 | [`ansible/ansible`](https://github.com/ansible/ansible) | [Fix role lookup from ansible-playbook cwd](https://github.com/ansible/ansible/pull/87112) | ✅ Merged |
-| [`deepchem/deepchem`](https://github.com/deepchem/deepchem) | [Fix DTNNEmbedding parameter misspelled](https://github.com/deepchem/deepchem/pull/5025) | 🟡 Open |
-| [`fossasia/eventyay`](https://github.com/fossasia/eventyay) | [CI tests workflow references removed path](https://github.com/fossasia/eventyay/issues/4133) | 🔴 Issue (Closed) |
+<!-- END_SECTION:activity -->
 
-> Full live feed with auto-sync → [Portfolio Open Source Section](https://vatsalyd.github.io/Portfolio/#opensource)
+> Full interactive feed with repository filters → [Portfolio Open Source Section](https://vatsalyd.github.io/Portfolio/#opensource)
 
-<br>
+---
 
-### `$ cat routing_table.yaml`
-
-**orchestration_and_agents**
-<p align="left">
-<img src="https://img.shields.io/badge/LangGraph-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/LangChain-134e4a?style=for-the-badge&logo=langchain&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/RAG-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/MCP-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-134e4a?style=for-the-badge&logo=openai&logoColor=5EEAD4"/>
-</p>
-
-**ml_and_deep_learning**
-<p align="left">
-<img src="https://img.shields.io/badge/PyTorch-134e4a?style=for-the-badge&logo=pytorch&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/Scikit--learn-134e4a?style=for-the-badge&logo=scikitlearn&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/XGBoost-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/SBERT-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-134e4a?style=for-the-badge&logo=huggingface&logoColor=5EEAD4"/>
-</p>
-
-**infra_and_deployment**
-<p align="left">
-<img src="https://img.shields.io/badge/FastAPI-134e4a?style=for-the-badge&logo=fastapi&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/Docker-134e4a?style=for-the-badge&logo=docker&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/AWS%20EC2/ECR-134e4a?style=for-the-badge&logo=amazonaws&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-134e4a?style=for-the-badge&logo=githubactions&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/ChromaDB-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/Qdrant-134e4a?style=for-the-badge&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/MongoDB-134e4a?style=for-the-badge&logo=mongodb&logoColor=5EEAD4"/>
-</p>
-
-**languages**
-<p align="left">
-<img src="https://img.shields.io/badge/Python-134e4a?style=for-the-badge&logo=python&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/C++-134e4a?style=for-the-badge&logo=cplusplus&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/JavaScript-134e4a?style=for-the-badge&logo=javascript&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/SQL-134e4a?style=for-the-badge&logo=mysql&logoColor=5EEAD4"/>
-</p>
-
-<br>
-
-### `$ tail -f research.log`
-
-Right now I'm deep in the orchestration layer itself — not what one agent can do, but how several agents *coordinate*: state handoffs that don't lose context, confidence-based escalation instead of silent failure, and sub-second routing decisions before any LLM call fires. That's the throughline across NUMAA.ai's inter-agent handoffs, HelixDesk's triage escalation, and FinSight's pre-LLM safety/intent layer — same underlying problem, three different domains.
-
-<br>
-
-### `$ git log --oneline`
+### 🛠️ `$ cat routing_table.yaml` (Tech Stack)
 
 ```
-2026  DEPLOY    AI/ML Intern @ Incrivelsoft — orchestrating the Nutrition Agent in NUMAA.ai's production multi-agent pipeline
-2026  MERGE     4 upstream PRs merged into mlflow/mlflow and ansible/ansible
-2025  SHIP      HelixDesk, FinSight AI, Context Pager, JobFit-AI — four multi-agent / ML systems, design through deploy
-2025  PROMOTE   Coordinator, DSAI Club @ IIT Bhilai — ran the Meraz hackathon for 100+ participants
-2024  JOIN      Core Member, DSAI Club  ·  Volunteer, Centre for Career Planning & Services
-2024  INIT      Started B.Tech, Data Science & AI @ IIT Bhilai
+Orchestration & Agents : LangGraph · LangChain · Multi-Agent Systems · MCP · RAG · Function Calling
+ML & Deep Learning     : PyTorch · Scikit-learn · XGBoost · Sentence-BERT · Hugging Face · spaCy
+Cloud & Infrastructure : FastAPI · Docker · AWS (EC2/ECR) · GitHub Actions · Qdrant · ChromaDB · MongoDB
+Languages              : Python · C++ · TypeScript · JavaScript · SQL · Bash
 ```
 
-<br>
+---
 
-### `$ curl stats.vatsalyd.dev`
+### 📝 `$ cat published_articles.md`
+
+- 📖 [**Your AI Agent Is Reading the Whole Book. You're Paying for Every Word**](https://medium.com/@vatsal.y.official/your-ai-agent-is-reading-the-whole-book-youre-paying-for-every-word-1193f3dec6df)  
+  _Virtual memory & semantic page indexing with Context Pager to cut token overhead by 4–10×._
+- 📖 [**I Refactored My AI Agent System and Deleted Half the Complexity**](https://medium.com/@vatsal.y.official/i-refactored-my-ai-agent-system-and-deleted-half-the-complexity-heres-what-i-changed-and-why-687154b1602f)  
+  _Flattening multi-agent state machines into explicit deterministic routing DAGs for sub-second latency._
+- 📖 [**I Built a Pregnancy Nutrition AI at My Internship — The LLM Was the Last Thing I Worried About**](https://medium.com/@vatsal.y.official/i-built-a-pregnancy-nutrition-ai-at-my-internship-the-llm-was-the-last-thing-i-worried-about-7c9200fd1782)  
+  _Production clinical safety guardrails, state handoffs, and medical quality loops._
+
+---
+
+### 📬 `$ connect()`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalyd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=c9d1d9" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalyd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=c9d1d9" width="38%"/>
+  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/vatsal.y.official@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=5EEAD4"/></a>
+  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=5EEAD4"/></a>
+  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=5EEAD4"/></a>
+  <a href="https://github.com/vatsalyd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=5EEAD4"/></a>
+  <a href="https://x.com/fixedbyvatsal"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=5EEAD4"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalyd&theme=react-dark&hide_border=true&bg_color=0D1117&color=5EEAD4&line=5EEAD4&point=ffffff" width="90%"/>
-</p>
-
-<br>
-
-### `$ connect()`
-
-<p align="center">
-  <a href="mailto:vatsal.y.official@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=5EEAD4"/></a>
-  <a href="https://www.linkedin.com/in/vatsal-yadav"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5EEAD4"/></a>
-  <a href="https://vatsalyd.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4"/></a>
-  <a href="https://github.com/vatsalyd"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=5EEAD4"/></a>
-  <a href="https://x.com/fixedbyvatsal"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=5EEAD4"/></a>
-  <a href="https://leetcode.com/u/vatsalyd/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=5EEAD4"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115e59,100:0f172a&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115e59,100:0f172a&height=90&section=footer" width="100%" alt="Footer"/>
 </p>
