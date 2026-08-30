@@ -64,12 +64,12 @@ Undergrad at IIT Bhilai focused on backend AI systems and multi-agent coordinati
 <!-- START_SECTION:activity -->
 | Repository | Contribution / Pull Request | Status |
 |:---|:---|:---:|
-| [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Fix async trace export dropping workspace context (#24093)](https://github.com/mlflow/mlflow/pull/24275) | `merged` |
-| [`deepchem/deepchem`](https://github.com/deepchem/deepchem) | [fix: DTNNEmbedding parameter misspelled (should be initializer) — Fixes #5020](https://github.com/deepchem/deepchem/pull/5025) | `open` |
-| [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Support Gemini thought signature in AI Gateway](https://github.com/mlflow/mlflow/pull/24051) | `merged` |
-| [`ansible/ansible`](https://github.com/ansible/ansible) | [Fix role lookup from ansible-playbook cwd](https://github.com/ansible/ansible/pull/87112) | `closed` |
-| [`Roshanjossey/code-contributions`](https://github.com/Roshanjossey/code-contributions) | [add vatsalyd](https://github.com/Roshanjossey/code-contributions/pull/1225) | `merged` |
-| [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [fix(tracking): warn when MlflowClient.search_runs() silently truncate…](https://github.com/mlflow/mlflow/pull/22218) | `closed` |
+| [`kubeflow/pipelines`](https://github.com/kubeflow/pipelines) | [test(sdk): add unit tests for CLI experiment, recurring_run, diagnose_me, and __main__ modules](https://github.com/kubeflow/pipelines/pull/14200) | `open` |
+| [`deepchem/deepchem`](https://github.com/deepchem/deepchem) | [fix(imports): use explicit relative imports for Pylance/Pyright namespace recognition — Closes #5117](https://github.com/deepchem/deepchem/pull/5118) | `open` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: add leaderboard and recognition system](https://github.com/dsai-iitbhilai/dsai-foundry/pull/4) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [chore: add PR template and issue templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/3) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: add category folders and entry templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/2) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [docs: add root README, CONTRIBUTING guide, and MIT LICENSE](https://github.com/dsai-iitbhilai/dsai-foundry/pull/1) | `merged` |
 <!-- END_SECTION:activity -->
 
 ---
