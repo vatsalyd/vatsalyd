@@ -14,9 +14,8 @@
 
 ```
 STATUS   : PRODUCTION_ACTIVE
-ROLE     : AI Systems & Multi-Agent Orchestration Engineer
-BASE     : IIT Bhilai — B.Tech, Data Science & AI (2024–2028, GPA 7.34/10)
-ROUTING  : Incrivelsoft (NUMAA.ai) — Production Nutrition Agent
+ROLE     : AI Systems & Infrastructure Engineer
+BASE     : IIT Bhilai — B.Tech, Data Science & AI (2024–2028, GPA 8/10)
 CONTACT  : vatsal.y.official@gmail.com · +91 7983709173
 ```
 
