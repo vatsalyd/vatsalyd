@@ -63,12 +63,12 @@ Undergrad at IIT Bhilai focused on backend AI systems and multi-agent coordinati
 <!-- START_SECTION:activity -->
 | Repository | Contribution / Pull Request | Status |
 |:---|:---|:---:|
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat(papers): add ReAct paper implementation seed entry](https://github.com/dsai-iitbhilai/dsai-foundry/pull/6) | `merged` |
 | [`kubeflow/pipelines`](https://github.com/kubeflow/pipelines) | [test(sdk): add unit tests for CLI experiment, recurring_run, diagnose_me, and __main__ modules](https://github.com/kubeflow/pipelines/pull/14200) | `open` |
 | [`deepchem/deepchem`](https://github.com/deepchem/deepchem) | [fix(imports): use explicit relative imports for Pylance/Pyright namespace recognition — Closes #5117](https://github.com/deepchem/deepchem/pull/5118) | `open` |
 | [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: add leaderboard and recognition system](https://github.com/dsai-iitbhilai/dsai-foundry/pull/4) | `merged` |
 | [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [chore: add PR template and issue templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/3) | `merged` |
 | [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: add category folders and entry templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/2) | `merged` |
-| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [docs: add root README, CONTRIBUTING guide, and MIT LICENSE](https://github.com/dsai-iitbhilai/dsai-foundry/pull/1) | `merged` |
 <!-- END_SECTION:activity -->
 
 ---
