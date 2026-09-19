@@ -63,12 +63,12 @@ Undergrad at IIT Bhilai focused on backend AI systems and multi-agent coordinati
 <!-- START_SECTION:activity -->
 | Repository | Contribution / Pull Request | Status |
 |:---|:---|:---:|
-| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat(papers): add ReAct paper implementation seed entry](https://github.com/dsai-iitbhilai/dsai-foundry/pull/6) | `merged` |
-| [`kubeflow/pipelines`](https://github.com/kubeflow/pipelines) | [test(sdk): add unit tests for CLI experiment, recurring_run, diagnose_me, and __main__ modules](https://github.com/kubeflow/pipelines/pull/14200) | `open` |
-| [`deepchem/deepchem`](https://github.com/deepchem/deepchem) | [fix(imports): use explicit relative imports for Pylance/Pyright namespace recognition — Closes #5117](https://github.com/deepchem/deepchem/pull/5118) | `open` |
-| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: add leaderboard and recognition system](https://github.com/dsai-iitbhilai/dsai-foundry/pull/4) | `merged` |
-| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [chore: add PR template and issue templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/3) | `merged` |
-| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: add category folders and entry templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/2) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: automate leaderboard badge calculation, support tier-aware validation, and enhance paper citations](https://github.com/dsai-iitbhilai/dsai-foundry/pull/13) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [docs: refresh How to Contribute in root README and category submission guides](https://github.com/dsai-iitbhilai/dsai-foundry/pull/12) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [fix: set executable permissions on pre-commit and foundry.py, add portable python discovery, and fix issue templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/11) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [docs: streamline CONTRIBUTING.md, add tiered submissions, and update PR template](https://github.com/dsai-iitbhilai/dsai-foundry/pull/10) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [ci: add GitHub Actions workflow to validate PRs and check index consistency](https://github.com/dsai-iitbhilai/dsai-foundry/pull/9) | `merged` |
+| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: add entry.json metadata schema, automated table indexing, and tag badges](https://github.com/dsai-iitbhilai/dsai-foundry/pull/8) | `merged` |
 <!-- END_SECTION:activity -->
 
 ---
