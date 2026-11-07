@@ -63,12 +63,12 @@ Undergrad at IIT Bhilai focused on backend AI systems and multi-agent coordinati
 <!-- START_SECTION:activity -->
 | Repository | Contribution / Pull Request | Status |
 |:---|:---|:---:|
+| [`kornia/kornia`](https://github.com/kornia/kornia) | [fix(losses): exclude ignored logits before binary focal logsigmoid](https://github.com/kornia/kornia/pull/6635) | `open` |
+| [`crewAIInc/crewAI`](https://github.com/crewAIInc/crewAI) | [fix(training): preserve files when pickle serialization fails](https://github.com/crewAIInc/crewAI/pull/9201) | `open` |
 | [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Preserve span link IDs during OTLP JSON ingestion in `otel_api.py`](https://github.com/mlflow/mlflow/pull/26940) | `merged` |
 | [`crewAIInc/crewAI`](https://github.com/crewAIInc/crewAI) | [fix(memory): preserve records when update serialization fails](https://github.com/crewAIInc/crewAI/pull/8303) | `merged` |
 | [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [feat: automate leaderboard badge calculation, support tier-aware validation, and enhance paper citations](https://github.com/dsai-iitbhilai/dsai-foundry/pull/13) | `merged` |
 | [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [docs: refresh How to Contribute in root README and category submission guides](https://github.com/dsai-iitbhilai/dsai-foundry/pull/12) | `merged` |
-| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [fix: set executable permissions on pre-commit and foundry.py, add portable python discovery, and fix issue templates](https://github.com/dsai-iitbhilai/dsai-foundry/pull/11) | `merged` |
-| [`dsai-iitbhilai/dsai-foundry`](https://github.com/dsai-iitbhilai/dsai-foundry) | [docs: streamline CONTRIBUTING.md, add tiered submissions, and update PR template](https://github.com/dsai-iitbhilai/dsai-foundry/pull/10) | `merged` |
 <!-- END_SECTION:activity -->
 
 ---
