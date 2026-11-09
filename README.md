@@ -63,7 +63,7 @@ Undergrad at IIT Bhilai focused on backend AI systems and multi-agent coordinati
 <!-- START_SECTION:activity -->
 | Repository | Contribution / Pull Request | Status |
 |:---|:---|:---:|
-| [`kornia/kornia`](https://github.com/kornia/kornia) | [fix(losses): exclude ignored logits before binary focal logsigmoid](https://github.com/kornia/kornia/pull/6635) | `open` |
+| [`kornia/kornia`](https://github.com/kornia/kornia) | [fix(losses): exclude ignored logits before binary focal logsigmoid](https://github.com/kornia/kornia/pull/6635) | `merged` |
 | [`crewAIInc/crewAI`](https://github.com/crewAIInc/crewAI) | [fix(training): preserve files when pickle serialization fails](https://github.com/crewAIInc/crewAI/pull/9201) | `open` |
 | [`mlflow/mlflow`](https://github.com/mlflow/mlflow) | [Preserve span link IDs during OTLP JSON ingestion in `otel_api.py`](https://github.com/mlflow/mlflow/pull/26940) | `merged` |
 | [`crewAIInc/crewAI`](https://github.com/crewAIInc/crewAI) | [fix(memory): preserve records when update serialization fails](https://github.com/crewAIInc/crewAI/pull/8303) | `merged` |
