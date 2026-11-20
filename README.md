@@ -63,7 +63,7 @@ Undergrad at IIT Bhilai focused on backend AI systems and multi-agent coordinati
 <!-- START_SECTION:activity -->
 | Repository | Contribution / Pull Request | Status |
 |:---|:---|:---:|
-| [`oppia/oppia`](https://github.com/oppia/oppia) | [Fix #27988: Restore nested components during auto-translation](https://github.com/oppia/oppia/pull/28170) | `open` |
+| [`oppia/oppia`](https://github.com/oppia/oppia) | [Fix #27988: Restore nested components during auto-translation](https://github.com/oppia/oppia/pull/28170) | `closed` |
 | [`argoproj/argo-cd`](https://github.com/argoproj/argo-cd) | [fix(reposerver): honor tagPrefix in UpdateRevisionForPaths (#30993)](https://github.com/argoproj/argo-cd/pull/30994) | `open` |
 | [`kornia/kornia`](https://github.com/kornia/kornia) | [fix(losses): exclude ignored logits before binary focal logsigmoid](https://github.com/kornia/kornia/pull/6635) | `merged` |
 | [`crewAIInc/crewAI`](https://github.com/crewAIInc/crewAI) | [fix(training): preserve files when pickle serialization fails](https://github.com/crewAIInc/crewAI/pull/9201) | `open` |
